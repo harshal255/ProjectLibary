@@ -316,8 +316,8 @@ const Project = () => {
 
                     <select name='batch' value={batch} onChange={handleChangeInput} className="form-select mt-2">
                       <option value="">Select Batch</option>
-                      <option value="2020-21">2020-21</option>
-                      <option value="2019-20">2019-20</option>
+                      <option value="2020-2021">2020-21</option>
+                      <option value="2019-2020">2019-20</option>
 
                     </select>
 
